@@ -19,3 +19,5 @@ while True:
     print("3. Multiply")
     print("4. Divide")
     print("5. Exit")
+
+    choice = input("Choose an option (1-5): ")
