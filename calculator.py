@@ -34,3 +34,5 @@ while True:
             if choice == "1":
                 print("Result:", add(num1, num2))
             elif choice == "2":
+                print("Result:", subtract(num1, num2))
+            elif choice
