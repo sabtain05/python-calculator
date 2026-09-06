@@ -41,3 +41,5 @@ while True:
                 print("Result:", divide(num1, num2))
         except ValueError:
             print("Invalid input! Please enter a valid number.")
+    else:
+        print("Invaid choice! Please select a number between 1 and 5.")
